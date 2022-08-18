@@ -1,0 +1,26 @@
+Colores Web
+https://htmlcolorcodes.com/
+
+Patrones
+https://www.toptal.com/designers/subtlepatterns/
+
+Fuentes
+https://fonts.google.com
+
+Iconos
+https://icomoon.io
+https://iconos8.es/
+
+Degradados
+https://www.colorzilla.com/gradient-editor/
+
+formularios
+http://facturacionweb.site/blog/formularios-contacto-html5-gratis/
+https://www.creativosonline.org/blog/formularios-css-html.html
+https://webgenio.com/blog/40-bonitos-formularios-css-registros-login-web/
+
+Trabajo con Grid
+https://gridbyexample.com/examples/
+
+Plantillas web:
+https://templated.co/
